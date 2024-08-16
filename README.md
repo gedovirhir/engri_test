@@ -1,8 +1,9 @@
 Запуск
 
-1) Настроить приложение в core.py, выставить кол-во репликаций сервера, уровень логгирования, порт сервреа, usernames
-2) python dummy_messenger.py
-3) python test_client.py
+1) Установить зависимости pip install -r requirements.txt 
+2) Настроить приложение в core.py, выставить кол-во репликаций сервера, уровень логгирования, порт сервреа, usernames
+3) python dummy_messenger.py
+4) python test_client.py
 
 Результаты запуска:
 Общее время выполнения 5000 запросов: 70.44948482513428
