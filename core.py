@@ -1,0 +1,10 @@
+USERNAMES = [
+    #'user919191123123232131231312'
+    f'user{i}' for i in range(10)
+]
+
+REPLICA_COUNT = 12
+
+SERVER_PORT = 8080
+
+LOGLEVEL = 'DEBUG'
